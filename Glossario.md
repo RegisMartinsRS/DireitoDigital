@@ -16,3 +16,25 @@ Garantido pela lei nº 12.965/14, estabelece princípios, garantias, direitos e 
 
 ## Lei Geral de Proteção de Dados (LEI Nº 13.709, DE 14 DE AGOSTO DE 2018)
 Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.
+
+## Compliance
+Gerar valor ao negócio e assegurar a sobrevivência da empresa, minimizando os impactos financeiros, legais e de imagem ocasionados por fatores como:
+
+*ausência de orientações normativas;
+*desalinhamentos às legislações aplicáveis;
+*falta de ferramentas preventivas adequadas;
+*falhas na gestão de processos;
+*operações sem um estruturado sistema de informação.
+
+O que é compliance nas empresas?
+É estar em conformidade com as leis e os regulamentos do setor.
+
+Tipos de compliance:
+
+*tributário ou fiscal;
+*trabalhista;
+*nos negócios ou empresarial;
+*na proteção de dados ou TI;
+*ambiental;
+*na saúde; 
+*financeiro.
