@@ -21,9 +21,13 @@ Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digit
 Gerar valor ao negócio e assegurar a sobrevivência da empresa, minimizando os impactos financeiros, legais e de imagem ocasionados por fatores como:
 
 *ausência de orientações normativas;
+
 *desalinhamentos às legislações aplicáveis;
+
 *falta de ferramentas preventivas adequadas;
+
 *falhas na gestão de processos;
+
 *operações sem um estruturado sistema de informação.
 
 O que é compliance nas empresas?
@@ -32,9 +36,15 @@ O que é compliance nas empresas?
 Tipos de compliance:
 
 *tributário ou fiscal;
+
 *trabalhista;
+
 *nos negócios ou empresarial;
+
 *na proteção de dados ou TI;
+
 *ambiental;
+
 *na saúde; 
+
 *financeiro.
