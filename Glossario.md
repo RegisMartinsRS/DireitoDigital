@@ -8,11 +8,11 @@ Regra jurídica geral, abstrata, impessoal, em desenvolvimento da lei, referente
 ## Lei 
 Inova originariamente na ordem jurídica.
 
-## Lei Carolina Dieckmann
+## Lei Carolina Dieckmann (LEI Nº 12.737/2012)
 Traz penas para crimes como invasão de aparelhos eletrônicos, interrupção de serviços digitais ou de conexão, falsificação de documentos ou de cartões de crédito ou débito.
 
-## Marco Civil da Internet 
+## Marco Civil da Internet (LEI Nº 12.965, DE 23 DE ABRIL DE 2014)
 Garantido pela lei nº 12.965/14, estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil, além de estipular diretrizes para a ação do Estado dentro das redes.
 
-## Lei Geral de Proteção de Dados 
+## Lei Geral de Proteção de Dados (LEI Nº 13.709, DE 14 DE AGOSTO DE 2018)
 Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.
