@@ -48,3 +48,9 @@ Tipos de compliance:
 *na saúde; 
 
 *financeiro.
+
+##Compliance na proteção de dados ou de TI
+
+Com a Lei Geral de Proteção de Dados (LGPD) e outras diretrizes relacionadas à crescente utilização de ferramentas tecnológicas, o compliance de proteção de dados ou de TI é um dos mais buscados atualmente.
+
+Em linhas gerais, as empresas precisaram se adequar rapidamente às normas de manipulação, captura, análise, armazenamento e descarte de dados. Por sinal, falhas neste sentido podem gerar punições, sanções, multas e até paralisação das atividades.
