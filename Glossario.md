@@ -54,3 +54,7 @@ Tipos de compliance:
 Com a Lei Geral de Proteção de Dados (LGPD) e outras diretrizes relacionadas à crescente utilização de ferramentas tecnológicas, o compliance de proteção de dados ou de TI é um dos mais buscados atualmente.
 
 Em linhas gerais, as empresas precisaram se adequar rapidamente às normas de manipulação, captura, análise, armazenamento e descarte de dados. Por sinal, falhas neste sentido podem gerar punições, sanções, multas e até paralisação das atividades.
+
+##PROCON
+
+No Estado do Rio Grande do Sul, o PROCON/RS foi criado por meio do Decreto nº 38.864/98 e era um Programa de Defesa dos Direitos do Consumidor vinculado à Secretaria do Trabalho, Cidadania e Assistência Social. Em 2011, através do Decreto 47.866, passou ao status de Departamento da Secretaria de Estado da Justiça e Direitos Humanos, atual Secretaria de Estado de Justiça, Cidadania e Direitos Humanos (SJCDH/RS). A partir daí, desenvolveu, reformulou e modernizou inúmeras ações em prol do marco legal da cidadania, em seus principais eixos de atuação: atendimento ao consumidor, fiscalização e educação para o consumo.
