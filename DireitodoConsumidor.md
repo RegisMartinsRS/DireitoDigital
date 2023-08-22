@@ -13,15 +13,6 @@ os direitos dos consumidores.
 
 
 # - Digital e não digital?
-Para que o consumidor possa reclamar de qualquer problema com o produto ou serviço é importante que tenha sempre algum documento que
-comprove a compra, como, por exemplo, nota ou
-cupom fiscal, sua via do contrato e comprovante de pagamento.
-O prazo para o consumidor reclamar do problema é de:
-• 30 dias para produto ou serviço não durável (por exemplo, alimentos, serviços de
-manicure, transporte público etc.).
-• 90 dias para produto ou serviço durável (por exemplo, eletrodomésticos, móveis,
-serviço de ensino etc.).
-Esses prazos serão contados a partir do recebimento do produto ou do término do
-serviço.
-Quando o problema não é aparente ou evidente, os prazos começam a ser contados
-a partir do seu aparecimento.
+O consumidor que comprar um produto ou contratar um serviço fora do estabelecimento comercial – como internet, telefone, caixa postal, entre outros – tem direito a
+se arrepender da compra ou da contratação no prazo de 7 dias, contados a partir do recebimento do produto ou da assinatura do contrato. Nesse caso, também tem direito
+à devolução de todos os valores eventualmente pagos. O consumidor deve formalizar a desistência e verificar o procedimento para a devolução do produto ao fornecedor.
