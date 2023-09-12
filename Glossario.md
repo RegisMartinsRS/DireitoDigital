@@ -109,6 +109,9 @@ validade jurídica: o documento assinado digitalmente é oficial e com força na
 O certificado digital serve para assinar documentos digitalmente e ter acesso a sistemas eletrônicos restritos, principalmente de órgãos públicos na internet, como:
 
 a Receita Federal, por meio do Portal e-CAC;
+
 o br;
+
 o INSS;
+
 e as juntas comerciais, dos estados e do distrito federal.
