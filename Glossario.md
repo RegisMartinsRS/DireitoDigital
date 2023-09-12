@@ -93,7 +93,7 @@ O direito à segurança, espécie de direito social, traz para o Estado o dever 
 
 ## O que é assinatura digital?
 
-É uma espécie de identidade no mundo virtual. Com ela, é possível firmar compromissos em documentos digitais com tecnologia capaz de identificar o seu emissor.A assinatura digital só pode ser realizada por meio de certificado digital no padrão ICP-Brasil. Essa certificação dá mais segurança ao processo porque ele utiliza tecnologia criptográfica para preservar a identidade do signatário.
+É uma espécie de identidade no mundo virtual. Com ela, é possível firmar compromissos em documentos digitais com tecnologia capaz de identificar o seu emissor. A assinatura digital só pode ser realizada por meio de certificado digital no padrão ICP-Brasil. Essa certificação dá mais segurança ao processo porque ele utiliza tecnologia criptográfica para preservar a identidade do signatário.
 
 Características:
 
