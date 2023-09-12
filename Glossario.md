@@ -91,4 +91,24 @@ O princípio da igualdade pressupõe que as pessoas colocadas em situações dif
 
 O direito à segurança, espécie de direito social, traz para o Estado o dever de implementar políticas públicas de segurança que garantam aos cidadãos o direito de ir, vir e transitar com tranqüilidade nos locais públicos e, também, assegurem a defesa de sua integridade física e de seu patrimônio.
 
+## O que é assinatura digital?
 
+É uma espécie de identidade no mundo virtual. Com ela, é possível firmar compromissos em documentos digitais com tecnologia capaz de identificar o seu emissor.A assinatura digital só pode ser realizada por meio de certificado digital no padrão ICP-Brasil. Essa certificação dá mais segurança ao processo porque ele utiliza tecnologia criptográfica para preservar a identidade do signatário.
+
+Características:
+
+integridade: o documento não pode ser alterado. Caso contrário, a assinatura será invalidada;
+autenticidade: por meio de chave privada, apenas o autor consegue assinar os documentos digitais. Em teoria, isso atesta que quem assinou o documento é mesmo quem afirma ser;
+irretratabilidade: assinou está assinado e não dá para voltar atrás. Como o autor usa uma chave privada para cifrar o documento, ele não pode negar a autenticidade depois;
+validade jurídica: o documento assinado digitalmente é oficial e com força na lei. Na prática, isso significa que ele não pode ser anulado ou alterado sem motivos plausíveis e pautados na lei.
+
+## O que é certificação digital?
+
+É a identidade eletrônica de uma pessoa ou empresa. Ele funciona como uma carteira de identificação virtual e permite assinar documentos à distância com o mesmo valor jurídico da assinatura feita de próprio punho no papel, mas sem precisar reconhecer firma em cartório.
+
+O certificado digital serve para assinar documentos digitalmente e ter acesso a sistemas eletrônicos restritos, principalmente de órgãos públicos na internet, como:
+
+a Receita Federal, por meio do Portal e-CAC;
+o br;
+o INSS;
+e as juntas comerciais, dos estados e do distrito federal.
