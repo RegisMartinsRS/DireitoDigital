@@ -115,3 +115,11 @@ o br;
 o INSS;
 
 e as juntas comerciais, dos estados e do distrito federal.
+
+## O que são crimes eletrônicos?
+
+O Direito Digital apresenta soluções tanto para os delitos de informática como para os comuns praticados no meio eletrônico. Ambos os casos são denominados crimes cibernéticos, embora não sejam idênticos.
+
+Nos crimes de informática, incorporados ao Código Penal pela Lei de Crimes Cibernéticos, a legislação aplicável aborda condutas que se tornaram possíveis a partir da tecnologia, como invadir um computador, derrubar um serviço de internet e adulterar dados em servidores de empresas.
+
+Já nos demais, a conduta já existia antes, como ofender a honra de alguém, enganar uma pessoa para obter dinheiro e atribuir um crime sabidamente falso a terceiro. Aqui, a internet apenas ampliou o alcance dos infratores.
