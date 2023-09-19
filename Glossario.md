@@ -123,3 +123,13 @@ O Direito Digital apresenta soluções tanto para os delitos de informática com
 Nos crimes de informática, incorporados ao Código Penal pela Lei de Crimes Cibernéticos, a legislação aplicável aborda condutas que se tornaram possíveis a partir da tecnologia, como invadir um computador, derrubar um serviço de internet e adulterar dados em servidores de empresas.
 
 Já nos demais, a conduta já existia antes, como ofender a honra de alguém, enganar uma pessoa para obter dinheiro e atribuir um crime sabidamente falso a terceiro. Aqui, a internet apenas ampliou o alcance dos infratores.
+
+## Legítima defesa na internet
+
+Quando há um incidente, busca-se principalmente atender aos seguintes objetivos: 1) bloquear ou minimizar o ataque ou a vulnerabilidade; 2) descobrir quem é o causador, ou seja, a identidade do infrator; 3) coletar provas que possam ser utilizadas para responsabilização do mesmo; e 4) tomar medidas para normalizar a situação para que ela volte a ser como era no momento anterior ao incidente.
+
+Mas se para alcançar esses objetivos, não são aplicadas boaspráticas de direito digital e computação forense, o que pode ocorrer é que as provas coletadas sejam consideradas como obtidas por meio ilícito (artigo 213 do Código Civil, artigo 332 do Código de Processo Civil e artigo 386 e outros do Código Processo Penal). Além disso, a empresa pode ser responsabilizada civilmente e o profissional pode ser responsabilizado criminalmente.
+
+No entanto, se se tratar de situação de legítima defesa, isso não ocorre. É o que está previsto no artigo 23, inciso II do Código Penal, que reza que 'não há crime quando o agente pratica o fato: I - em estado de necessidade; II - em legítima defesa; III - em estrito cumprimento de dever legal ou no exercício regular de direito.'
+
+
