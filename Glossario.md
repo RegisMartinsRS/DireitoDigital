@@ -132,4 +132,4 @@ Mas se para alcançar esses objetivos, não são aplicadas boaspráticas de dire
 
 No entanto, se se tratar de situação de legítima defesa, isso não ocorre. É o que está previsto no artigo 23, inciso II do Código Penal, que reza que 'não há crime quando o agente pratica o fato: I - em estado de necessidade; II - em legítima defesa; III - em estrito cumprimento de dever legal ou no exercício regular de direito.'
 
-
+Concluindo, é fundamental o treinamento das equipes, a elaboração de termos e códigos de conduta, bem como que os contratos com empresas que praticam 'ethical hacking' já prevejam situações de limites de ações e de responsabilidades, para que se evite gerar riscos e contingências legais, quando se imaginava que estava se protegendo. Defender-se é uma coisa, atacar é outra.
