@@ -133,3 +133,28 @@ Mas se para alcançar esses objetivos, não são aplicadas boaspráticas de dire
 No entanto, se se tratar de situação de legítima defesa, isso não ocorre. É o que está previsto no artigo 23, inciso II do Código Penal, que reza que 'não há crime quando o agente pratica o fato: I - em estado de necessidade; II - em legítima defesa; III - em estrito cumprimento de dever legal ou no exercício regular de direito.'
 
 Concluindo, é fundamental o treinamento das equipes, a elaboração de termos e códigos de conduta, bem como que os contratos com empresas que praticam 'ethical hacking' já prevejam situações de limites de ações e de responsabilidades, para que se evite gerar riscos e contingências legais, quando se imaginava que estava se protegendo. Defender-se é uma coisa, atacar é outra.
+
+## O que são Direitos Autorais?
+
+São os direitos que todo criador de uma obra intelectual tem sobre a sua criação. Esse direito é exclusivo do autor, de acordo com o artigo 5º, XXVII, da Constituição Federal.
+
+# Obras passíveis de registro de direitos autorais:
+
+Livros, brochuras, folhetos, cartas-missivas, textos literários, artísticos ou científicos;
+Conferências, alocuções, sermões e outras obras da mesma natureza;
+Obras dramáticas e dramático-musicais, com ou sem partitura;
+Obras coreográficas e pantomímicas, cuja execução cênica se fixe por escrito ou por outra forma qualquer;
+Ilustrações, cartas geográficas e outras obras da mesma natureza;
+Argumentos e roteiros cinematográficos;
+Adaptações, arranjos musicais, traduções e outras transformações de obras originárias (que não estejam no domínio público), desde que previamente autorizadas e que se apresentem como criação intelectual nova; são aceitas para registro com expressa e específica autorização de seu autor (ou autores) e/ou detentores dos direitos autorais patrimoniais (cessionários);
+Coletâneas ou compilações, como seletas, compêndios, antologias, enciclopédias, dicionários, jornais, revistas, coletâneas de textos legais, de despachos, de decisões ou de pareceres administrativos, parlamentares ou judiciais, desde que, pelos critérios de seleção e organização, constituam criação intelectual;
+Composições musicais, com ou sem letra;
+Obras em quadrinhos (personagens);
+Letras e partituras musicais;
+Obras fotográficas e as produzidas por qualquer processo análogo ao da fotografia.
+
+## O que é Licença de Direitos Autorais?
+
+É uma forma de permitir a utilização de uma obra protegida por terceiros, mediante pagamento de uma remuneração ao titular dos direitos. É um processo formal, que ocorre através de um contrato escrito, e pode ser total ou parcial, exclusivo ou não exclusivo.
+O licenciado não se torna proprietário dos direitos autorais, apenas adquire uma autorização temporária para a utilização da obra, devendo seguir as condições estabelecidas em contrato e pagar eventuais royalties ao titular dos direitos autorais.
+
