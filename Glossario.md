@@ -138,7 +138,7 @@ Concluindo, é fundamental o treinamento das equipes, a elaboração de termos e
 
 São os direitos que todo criador de uma obra intelectual tem sobre a sua criação. Esse direito é exclusivo do autor, de acordo com o artigo 5º, XXVII, da Constituição Federal.
 
-# Obras passíveis de registro de direitos autorais:
+## Obras passíveis de registro de direitos autorais:
 
 Livros, brochuras, folhetos, cartas-missivas, textos literários, artísticos ou científicos;
 Conferências, alocuções, sermões e outras obras da mesma natureza;
