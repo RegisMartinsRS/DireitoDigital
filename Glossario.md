@@ -180,7 +180,7 @@ Freeware:
 O termo “freeware” não possui uma definição clara e aceita, mas é muito usada para pacotes que permitem redistribuição mas não modificação (e seu código-fonte não está disponível). Estes pacotes não são software livre, portanto não use “freeware” para referir-se a software livre.
 
 Shareware:
-Shareware é software que vem com permissão para redistribuir cópias, mas diz que qualquer um que continue usando uma cópia é obrigado a pagar por uma licença.
+Software que vem com permissão para redistribuir cópias, mas diz que qualquer um que continue usando uma cópia é obrigado a pagar por uma licença.
 Shareware não é software livre, ou mesmo semilivre. Existe duas razões para isso:
 Para maior parte dos sharewares, o código-fonte não está disponível; portanto, você não pode modificar o programa.
 Shareware não vem com permissão para fazer uma cópia e instalá-la sem pagar uma licença, nem mesmo para indivíduos engajados a atividades não lucrativas. (Na prática, as pessoas frequentemente desrespeitam os termos da distribuição e fazem isso de qualquer forma, mas os termos não permitem isso).
@@ -211,7 +211,7 @@ GNU AGPL:
 É uma licença de software livre publicada recentemente pela Free Software Foundation. A GNU AGPL tem o propósito de ser uma licença minimamente modificada da GNU GPL e atender as necessidades de fornecer liberdade em softwares como serviços (SaaS, Software as a Service), ou seja, aqueles os quais você não tem acesso direto ao binário/código-objeto.
 
 Licença Livre:
-É uma forma de copyleft criada para uso em manuais, livros ou outros documentos para garantir que qualquer um tem a real liberdade de copiar e redistribui-los, com ou sem modificações, tanto comercial quanto não comercialmente.
+Criada para uso em manuais, livros ou outros documentos para garantir que qualquer um tem a real liberdade de copiar e redistribui-los, com ou sem modificações, tanto comercial quanto não comercialmente.
 
 Copyleft:
 É um método legal de tornar um programa em software livre e exigir que todas as versões modificadas e estendidas do programa também sejam software livre.
