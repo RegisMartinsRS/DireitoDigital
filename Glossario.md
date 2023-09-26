@@ -158,3 +158,42 @@ Obras fotográficas e as produzidas por qualquer processo análogo ao da fotogra
 É uma forma de permitir a utilização de uma obra protegida por terceiros, mediante pagamento de uma remuneração ao titular dos direitos. É um processo formal, que ocorre através de um contrato escrito, e pode ser total ou parcial, exclusivo ou não exclusivo.
 O licenciado não se torna proprietário dos direitos autorais, apenas adquire uma autorização temporária para a utilização da obra, devendo seguir as condições estabelecidas em contrato e pagar eventuais royalties ao titular dos direitos autorais.
 
+## O que é e para que serve uma licença de software?
+
+O licenciamento é um documento contratual usado por desenvolvedores de programas digitais. Ele serve para definir se o aplicativo tem domínio público ou se está bloqueado por copyright, além de determinar como pode ser utilizado o código-fonte.
+
+## O que é Software Proprietário, Software de Domínio Público, Adware, Freeware, Shareware, Software de código aberto?
+
+Software proprietário:
+Quando a licença é do tipo de software proprietário, qualquer cópia, redistribuição ou alteração é proibida. Caso descumpridos os termos impostos no contrato aceito pelo usuário, a desenvolvedora pode tomar medidas judiciais. Para contornar as limitações, é preciso contatar o desenvolvedor e solicitar novas permissões, ou adquirir licenças que incluam mais funcionalidades.
+O modelo de software proprietário é aplicado por alguns dos principais programas utilizados diariamente nas empresas, como Photoshop, Windows, Microsoft Office, Mac OS, entre outros.
+
+Software de domínio público:
+Software de domínio público é software não sujeito a copyright. Se o código fonte estiver no domínio público, este é um caso especial de software livre sem copyleft, o que significa que algumas cópias ou versões modificadas podem não ser livres.
+
+Adware:
+Trata-se do software disponibilizado gratuitamente com todas as suas
+funcionalidades abertas e que requerem que o usuário visualize propagandas ou
+pague algum valor para não as ver. 
+
+Freeware:
+O termo “freeware” não possui uma definição clara e aceita, mas é muito usada para pacotes que permitem redistribuição mas não modificação (e seu código-fonte não está disponível). Estes pacotes não são software livre, portanto não use “freeware” para referir-se a software livre.
+
+Shareware:
+Shareware é software que vem com permissão para redistribuir cópias, mas diz que qualquer um que continue usando uma cópia é obrigado a pagar por uma licença.
+Shareware não é software livre, ou mesmo semilivre. Existe duas razões para isso:
+Para maior parte dos sharewares, o código-fonte não está disponível; portanto, você não pode modificar o programa.
+Shareware não vem com permissão para fazer uma cópia e instalá-la sem pagar uma licença, nem mesmo para indivíduos engajados a atividades não lucrativas. (Na prática, as pessoas frequentemente desrespeitam os termos da distribuição e fazem isso de qualquer forma, mas os termos não permitem isso).
+
+Código aberto:
+A diferença desse software — chamado em inglês de open source — para o software livre está no discurso. O termo software livre serve para questões éticas, enquanto o código aberto é somente técnico, sem levar em consideração os aspectos éticos.
+
+## O que é GNU General Public License?
+
+No Brasil, a licença se popularizou pela alcunha de licença de uso geral. É o principal modelo de licenciamento de código aberto, assegurando ao usuário o direito de rodar o sistema em suas máquinas, estudar e modificar o código-fonte e redistribuir o programa.
+Todo trabalho desenvolvido sob um código GNU GPL pode ser compartilhado livremente. Uma cláusula nesse tipo de software determina que o usuário pode optar por manter o licenciamento original ou optar para novas versões do mesmo, caso tenham sido lançadas.
+
+## O que é GNU FDL, GNU LGPL, GNU AGPL, Licença livre e Copyleft
+
+
+## Identifique as principais licenças quando um repositório é criado no GitHub
