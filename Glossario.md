@@ -195,5 +195,26 @@ Todo trabalho desenvolvido sob um código GNU GPL pode ser compartilhado livreme
 
 ## O que é GNU FDL, GNU LGPL, GNU AGPL, Licença livre e Copyleft
 
+GNU FDL:
+É uma licença para documentos e textos livres publicada pela Free Software Foundation. A GNU FDL permite que textos, apresentações e conteúdo de páginas na internet sejam distribuídos e reaproveitados, mantendo, porém, alguns direitos autorais e sem permitir que essa informação seja usada de maneira indevida. A licença não permite, por exemplo, que o texto seja transformado em propriedade de outra pessoa, além do autor ou que sofra restrições a ser distribuído da mesma maneira que foi adquirido.
+Uma das exigências da FDL é que o material publicado seja liberado também em um formato transparente para melhor se poder exercer os direitos que a licença garante.
+
+GNU LGPL:
+É uma licença de software livre aprovada pela FSF e escrita como um meio-termo entre a GPL e licenças mais permissivas, tais como a licença BSD e a licença MIT.
+A principal diferença entre a GPL e a LGPL é que esta permite também a associação com programas que não estejam sob as licenças GPL ou LGPL, incluindo Software proprietário.
+Outra diferença significativa é que os trabalhos derivados, que não estão sob a LGPL, devem estar disponíveis em bibliotecas.
+A LGPL acrescenta restrições ao código fonte desenvolvido, mas não exige que seja aplicada a outros softwares que empreguem seu código, desde que este esteja disponível na forma de uma biblioteca. Logo, inclusão do código desenvolvido sob a LGPL como parte integrante de um software só é permitida se o código fonte for liberado.
+A LGPL visa à regulamentação do uso de bibliotecas de código, mas pode ser empregada na regulamentação de aplicações, como OpenOffice.org e Mozilla.
+Outra característica importante é a possibilidade de conversão de apenas uma parte de um código sob a LGPL em outro, sob a GPL.
+
+GNU AGPL:
+É uma licença de software livre publicada recentemente pela Free Software Foundation. A GNU AGPL tem o propósito de ser uma licença minimamente modificada da GNU GPL e atender as necessidades de fornecer liberdade em softwares como serviços (SaaS, Software as a Service), ou seja, aqueles os quais você não tem acesso direto ao binário/código-objeto.
+
+Licença Livre:
+É uma forma de copyleft criada para uso em manuais, livros ou outros documentos para garantir que qualquer um tem a real liberdade de copiar e redistribui-los, com ou sem modificações, tanto comercial quanto não comercialmente.
+
+Copyleft:
+É um método legal de tornar um programa em software livre e exigir que todas as versões modificadas e estendidas do programa também sejam software livre.
+O modo mais simples de tornar um programa em software livre é colocá-lo sob o domínio público, sem copyright.
 
 ## Identifique as principais licenças quando um repositório é criado no GitHub
