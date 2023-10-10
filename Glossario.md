@@ -216,5 +216,3 @@ Criada para uso em manuais, livros ou outros documentos para garantir que qualqu
 Copyleft:
 É um método legal de tornar um programa em software livre e exigir que todas as versões modificadas e estendidas do programa também sejam software livre.
 O modo mais simples de tornar um programa em software livre é colocá-lo sob o domínio público, sem copyright.
-
-## Identifique as principais licenças quando um repositório é criado no GitHub
